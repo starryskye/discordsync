@@ -1,0 +1,6 @@
+name: DiscordSync
+version: 1.0-SNAPSHOT
+main: com.conaxgames.discordsync.bukkit.DiscordSyncPlugin
+softdepend: [Cobalt, LuckPerms]
+commands:
+  link:

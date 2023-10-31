@@ -1,0 +1,18 @@
+[mysql]
+  host = "localhost"
+  port = 3306
+  username = "root"
+  password = "root"
+  database = "discord"
+[redis]
+  host = "localhost"
+  port = 6379
+  auth = ""
+  channel = "discordsync"
+[discord]
+  token = ""
+  server = 540377811337084928
+  channel = "rank-sync"
+  [ranks]
+  "Normal" = "Player"
+  "Prime" = ["Prime", "Staff"]

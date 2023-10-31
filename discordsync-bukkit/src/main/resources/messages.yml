@@ -1,0 +1,16 @@
+not-synced-broadcast:
+  - ""
+  - "&b%PLAYER%, you're not synced"
+  - ""
+unused-code:
+  - ""
+  - "&balready have a code: &f%CODE%"
+  - ""
+already-linked:
+  - ""
+  - "already linked"
+  - ""
+created-code:
+  - ""
+  - "&bcode: &r%CODE%"
+  - ""
